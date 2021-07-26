@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.956fad23.chunk.css",
+    "main.js": "/static/js/main.ea4d8a89.chunk.js",
+    "main.js.map": "/static/js/main.ea4d8a89.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.554504a0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.554504a0.js.map",
+    "static/js/2.5f8788fa.chunk.js": "/static/js/2.5f8788fa.chunk.js",
+    "static/js/2.5f8788fa.chunk.js.map": "/static/js/2.5f8788fa.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.5a36b78b882265246af10f9dec6a67d3.js": "/precache-manifest.5a36b78b882265246af10f9dec6a67d3.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.956fad23.chunk.css.map": "/static/css/main.956fad23.chunk.css.map",
+    "static/js/2.5f8788fa.chunk.js.LICENSE.txt": "/static/js/2.5f8788fa.chunk.js.LICENSE.txt",
+    "static/media/IEEE.png": "/static/media/IEEE.47831f00.png",
+    "static/media/hackslash.png": "/static/media/hackslash.3d9c987e.png",
+    "static/media/pratikanand.png": "/static/media/pratikanand.4e6fa7b3.png",
+    "static/media/resume.pdf": "/static/media/resume.e24a20a5.pdf",
+    "static/media/robotics.jpg": "/static/media/robotics.5c630d8b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.554504a0.js",
+    "static/js/2.5f8788fa.chunk.js",
+    "static/css/main.956fad23.chunk.css",
+    "static/js/main.ea4d8a89.chunk.js"
+  ]
+}
